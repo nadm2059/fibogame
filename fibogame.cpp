@@ -31,7 +31,7 @@ int main() {
     else
         cout << "Your number is odd" << endl;
 
-    cout << "Welcome to class " << name << endl;
+    cout << "Welcome to class!!!, " << name << endl;
 
     for (int i = 0; i <= 20; i++)
         cout << i << ": " << fibo(i) << endl;
